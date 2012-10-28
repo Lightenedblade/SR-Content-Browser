@@ -99,3 +99,15 @@ HOW TO BECOME A MODDER / MAPPER
 
 2) Spamming me with requests to become a modder will not work.
 
+
+Advanced Review System
+===
+Basic System
+---
+Available all registered users: a simple Vote up or Vote Down
+Experienced
+---
+A star based voting system for multiple criteria available to users with certain experience
+Veteran
+---
+Star based review system with a written review and made by modder approved users
